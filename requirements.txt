@@ -1,0 +1,13 @@
+numpy
+pandas
+scipy
+scikit-image
+scikit-learn
+matplotlib
+zarr
+tifffile
+napari
+jupyter
+notebook
+ipykernel
+tqdm
